@@ -5,5 +5,6 @@ You can try via emulator or terminal in your devices by command<br />
 <pre>su
 /system/bin/getenforce</pre>
 if output are "enforcing" may you can use the patch<br />
+if output are "Permissive" you already to rocks!<br />
 
 or you can use SelinuxModeChange app
