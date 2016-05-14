@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Luis Celis.)
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: ygSP0NefcGv5SErY1AZLNH7HpZM=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: eFS4PyBI6BVKWKRUbcaDe0/tv2U=
+
+Name: system/fonts/NotoColorEmoji.ttf
+SHA1-Digest: DJ/mldyXPKQ6Trvo3gDBlxMGPxA=
+
